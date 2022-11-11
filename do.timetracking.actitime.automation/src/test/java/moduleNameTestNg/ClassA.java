@@ -21,8 +21,10 @@ public class ClassA {
 	public void demo3()
 	{
 		System.out.println("third");
+		System.out.println("end");
 		
 	}
+	
 	
 
 }
